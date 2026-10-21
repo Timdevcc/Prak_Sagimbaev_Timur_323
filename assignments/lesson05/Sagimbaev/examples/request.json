@@ -1,0 +1,7 @@
+{
+  "model": "local-model",
+  "messages": [{"role": "user", "content": "Say hello in one short sentence."}],
+  "stream": false,
+  "max_tokens": 64,
+  "temperature": 0.2
+}

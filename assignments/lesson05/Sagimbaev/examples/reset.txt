@@ -1,0 +1,16 @@
+INPUT:
+My name is Timur.
+/reset
+What is my name?
+/exit
+
+STDOUT:
+You> Assistant> Hello Timur! How can I assist you today?
+Input: 29, answer: 12, total: 41 / 1024; removed pairs: 0; time: 1.01981 s
+You> History cleared.
+You> Assistant> My name is a digital assistant created by Alibaba Cloud.
+Input: 28, answer: 12, total: 40 / 1024; removed pairs: 0; time: 0.851401 s
+You> 
+STDERR:
+
+EXIT: 0

@@ -1,0 +1,6 @@
+INPUT: hello
+OUTPUT:
+Error: Сервер недоступен. Проверьте запуск llama-server и адрес http://127.0.0.1:8080/v1/chat/completions/input_tokens
+History unchanged.
+You> You> 
+EXIT: 1

@@ -1,0 +1,14 @@
+INPUT:
+My name is Timur. Remember it.
+What is my name?
+/exit
+
+STDOUT:
+You> Assistant> Hello Timur! It's nice to meet you.
+Input: 32, answer: 12, total: 44 / 1024; removed pairs: 0; time: 1.44507 s
+You> Assistant> Your name is Timur.
+Input: 58, answer: 7, total: 65 / 1024; removed pairs: 0; time: 0.731094 s
+You> 
+STDERR:
+
+EXIT: 0

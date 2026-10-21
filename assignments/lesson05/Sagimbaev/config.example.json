@@ -1,0 +1,9 @@
+{
+  "server_url": "http://127.0.0.1:8080",
+  "model": "local-model",
+  "context_size": 1024,
+  "max_tokens": 64,
+  "temperature": 0.2,
+  "timeout_seconds": 180,
+  "system_prompt": "You are a helpful assistant. Keep answers short."
+}
